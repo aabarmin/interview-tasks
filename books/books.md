@@ -2,7 +2,7 @@
 
 ## Context
 
-The custom is publishing books in the XML format. Due to the significant size of a book, it's split into fragments. Every fragment is a separate XML file. Linking between fragments is established using XML processing instructions. 
+The customer is publishing books in the XML format. Due to the significant size of a book, it's split into fragments. Every fragment is a separate XML file. Linking between fragments is established using XML processing instructions. 
 
 ## Task
 
