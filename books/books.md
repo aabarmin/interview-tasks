@@ -1,18 +1,14 @@
-Practical Task: XML Books
-=
+# Practical Task: XML Books
 
-Context
-==
+## Context
 
 The custom is publishing books in the XML format. Due to the significant size of a book, it's split into fragments. Every fragment is a separate XML file. Linking between fragments is established using XML processing instructions. 
 
-Task
-==
+## Task
 
 It's necessary writing the Spring-based application which will download all the fragments of the books and generate tables of contents. Tables of contents should be exposed via REST API. 
 
-Example
-==
+## Example
 
 Input file 1 (`book-1.xml`): 
 
@@ -66,14 +62,12 @@ Body:
 ]
 ```
 
-Data sources
-=
+## Data sources
 
 * [The European Languages](../content/books/european-languages/section-1.xml)
 * [Far far away](../content/books/far-far-away/section-1.xml)
 
-Expectations
-=
+## Expectations
 
 * We're expecting this application will be written in the same way you're writing the production code. 
 * The code should be published to GitHub/GitLab and should have a manual on how to start it locally. 
