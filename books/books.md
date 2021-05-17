@@ -71,4 +71,14 @@ Body:
 
 * We're expecting this application will be written in the same way you're writing the production code. 
 * The code should be published to GitHub/GitLab and should have a manual on how to start it locally. 
-* Please have your application up and running in your favourite IDE before the interview session - we'll have a pair-programming session. 
+* Please have your application up and running in your favourite IDE before the interview session - we'll have a pair-programming session.   
+
+## Code requirements
+
+Make sure the following poins in your implementation: 
+
+* The application has layered architecture - there are controllers, services, data access objects and other layers you need. 
+* All the exceptions are properly handled and logged. 
+* All the resources are closed properly. 
+* Make sure you've considered a corner-case when the whole XML can't be loaded into memory at once. 
+* Make sure the code has no side-effects. 
