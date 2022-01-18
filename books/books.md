@@ -52,12 +52,12 @@ Body:
 ```json
 [
     {
-        'type': 'Section',
-        'title': 'The European Languages'
+        "type": "Section",
+        "title": "The European Languages"
     },
     {
-        'type': 'Section',
-        'title': 'Grammar'
+        "type": "Section",
+        "title": "Grammar"
     }
 ]
 ```
